@@ -2,3 +2,6 @@
 *.sdf
 .vs/
 *.vcxproj.user
+simpleserver/Debug/
+Debug/
+.idea/
